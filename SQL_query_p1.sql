@@ -16,7 +16,7 @@ CREATE TABLE retail_sales
 
 SELECT * FROM retail_sales;
 
-SELECT * FROM retail_sales
+SELECT * FROM retail_sales 
 WHERE transaction_id IS NULL
 
 SELECT * FROM retail_sales
